@@ -2,12 +2,12 @@
 
 ## Compatibility
 
-The Data Collection Module requires and is compatible with the OpenXR framework.
+The Data Collection Module requires and is compatible with the SteamVR framework.
 If used, the Shimmer module requires a Windows 10 or 11 operating system.
 
 ## Pre-Installation Steps
 
-### Google Protobuf<br>
+### Google Protobuf
 Follow the guide at https://github.com/GameWorkstore/google-protobuf-unity
 
 ### System.IO.Ports
