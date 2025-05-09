@@ -31,6 +31,10 @@ If you prefer to stay on .NET Standard 2.1, you can manually import `System.IO.P
    - In the Inspector, set the Platform settings.
 4) Unity will recompile your scripts, and `System.IO.Ports` should now be accessible.
 
+#### Solution 3
+
+Install using the NuGetForUnity plugin (https://github.com/GlitchEnzo/NuGetForUnity/releases)
+
 ## Usage
 
-TBD
+Refer to the Magic Xroom documentation for more details https://github.com/XR2Learn/magic-xroom/blob/main/README.md
